@@ -1,0 +1,14 @@
+Frontend 
+- Egy számláló amin látszik az eddig az országba érkezett összes vakcina száma
+- Egy form ahol jelentkezni lehet oltásra. ( név, email ,preferált vakcina, dátum ). Ez bekerül az adminba.
+
+Admin felület (user/pass login)
+- Beérkezett vakcina szállítmányok (dátum darab típus) kezelése
+- A Frontendről a oltásra jelentkezők adatai (név, email ,preferált vakcina, dátum) kezelése
+
+Design
+-Teljesen minimál dizájn, rád van bízva mit használsz template bootstrap vagy akármi 
+
+Vue.js-t belecsempészhetsz bátran.
+
+Alapvetően azt domborítsd ki a feladatban ami a Laravel része, viszont bármi extrát tehetsz bele amivel úgy érzed meg tudod mutatni jelenlegi képességeidet.
